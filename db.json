@@ -1,0 +1,33 @@
+{
+  "options":
+  [
+    {  "id":"1",
+        "title":"Botox",
+        "description":"Botox is a drug made from a toxin produced by the bacterium Clostridium botulinum. It's the same toxin that causes a life-threatening type of food poisoning called botulism. Doctors use it in small doses to treat health problems, including: Temporary smoothing of facial wrinkles and improving your appearance.",
+        "backgroundColor":"rgba(176,224,230,0.4)"
+    },
+    {
+       "id":"2",
+        "title":"Facial",
+        "description":"What does a medical facial do you ask? Well, a medical facial cleanses, exfoliates, and nourishes the skin, promoting a clear, well-hydrated complexion. These facials differ from spa facials in that nothing is pre-determined before your appointment.",
+           "backgroundColor":"rgba(209,159,232,0.5)"
+    },
+    {
+       "id":"3",
+        "title":"Plastic Surgery",
+        "description":"Plastic surgery deals with the repair, reconstruction, or replacement of physical defects of form or function involving the skin, musculoskeletal system, cranio and maxillofacial structures, hand, extremities, breast and trunk, and external genitalia.",
+      "backgroundColor":"rgba(250,218,221,0.8)"
+    },
+     {
+       "id":"4",
+        "title":"Transplant",
+        "description":"Microdermabrasion treatments use a minimally abrasive instrument to gently sand your skin, removing the thicker, uneven outer layer, and has many benefits. This type of skin rejuvenation is used to treat light scarring, discoloration, sun damage and stretch marks.",
+   "backgroundColor":"rgba(255,250,205,0.6)"
+   }
+
+]
+  
+  
+
+
+}    
